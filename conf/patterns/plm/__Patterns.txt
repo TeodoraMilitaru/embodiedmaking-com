@@ -11,7 +11,7 @@ customers-create-their-own
 decide-by-matching
 declarative-component-dependencies
 deep-roots
-distributed-customer-care
+everyone-cares
 events-everywhere
 everyone's-business
 exotic-plants
